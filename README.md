@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, me chamo Vitor Eduardo Gomes Pereira
+ ### Formação Academica 
+ - Estudante do Colégio Marista Irmão Acácio
+ - Cursando o Ensino Médio Técnico Integrado em Informática para Internet
+ - Linguagens em aprendizado: HTML, CSS, JavaScript, Git, GitHub e MySQL
+ 
 
 <!--
 **vitoreduardogomes14-dotcom/vitoreduardogomes14-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
